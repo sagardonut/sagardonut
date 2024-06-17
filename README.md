@@ -8,7 +8,7 @@ I'm a tech enthusiast and a lifelong learner, passionate about technology and it
 
 ## My Skills
 
-- **python developer  **:
+- **python developer**:
 - **Djnago developer **:
 - **Frontend developer**:
 - **Current Projects**: I'm currently working on a blog website using django. Stay tuned for updates!
