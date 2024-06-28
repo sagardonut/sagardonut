@@ -1,4 +1,4 @@
-# Hi there, I'm sagar not donut ! 👋
+# Hi there, I'm sagar not donut👋 
 
 ![Profile Picture](https://github.com/sagardonat/sagardonut/blob/main/profile-landscape.png)
 
