@@ -1,6 +1,6 @@
 # Hi there, I'm sagar not donut👋 
 
-![Profile Picture](https://github.com/sagardonat/sagardonut/blob/main/profile-landscape.png)
+<img src="https://github.com/sagardonat/sagardonut/blob/main/profile-landscape.png" alt="Profile Picture" width="500px"/>
 
 ## About Me
 
